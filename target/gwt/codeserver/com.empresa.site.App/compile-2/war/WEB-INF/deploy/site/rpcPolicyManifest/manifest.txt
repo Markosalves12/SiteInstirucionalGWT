@@ -1,0 +1,3 @@
+# Module site
+# RPC service class, partial path of RPC policy file
+com.empresa.site.GreetingService, 825554D9488B961A2456D6E371DA857E.gwt.rpc

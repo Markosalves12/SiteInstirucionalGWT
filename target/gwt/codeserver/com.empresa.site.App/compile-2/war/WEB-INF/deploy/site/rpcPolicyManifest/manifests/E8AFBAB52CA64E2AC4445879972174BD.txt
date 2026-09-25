@@ -1,0 +1,2 @@
+serviceClass: com.empresa.site.GreetingService
+path: 825554D9488B961A2456D6E371DA857E.gwt.rpc
